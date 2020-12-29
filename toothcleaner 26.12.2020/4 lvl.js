@@ -246,7 +246,7 @@ var draw = function () {
 
     //невидимые препятствия
     for (var i = 0; i < invisObst.length; i++) {
-        drawObject(invisObst[i], '#cccc99');
+        drawObject(invisObst[i], '#00ffff');
     }
 
     //количество монет
